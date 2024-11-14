@@ -83,16 +83,16 @@ def policy_iteration(P, gamma=1.0,theta=1e-10):
 
 ### optimal policy:
 
-![image](https://github.com/user-attachments/assets/461cdf20-8e5a-4a2e-82bb-b47d9744857e)
+![Screenshot 2024-11-14 154606](https://github.com/user-attachments/assets/958627df-f058-47de-bf7a-728ab6978f41)
 
 ### optimal value function:
+![Screenshot 2024-11-14 154619](https://github.com/user-attachments/assets/491177be-eea2-4b34-91e6-eebd04b3599c)
 
-![image](https://github.com/user-attachments/assets/625c4c9b-ee62-4aff-9a77-68e03c86a951)
 
 ### success rate for the optimal policy:
 
-![image](https://github.com/user-attachments/assets/ab6fed68-d91b-4fe7-943b-c13480de6e9a)
 
+![Screenshot 2024-11-14 154631](https://github.com/user-attachments/assets/0532a427-136d-42e4-acbd-9b1962678fde)
 
 
 
